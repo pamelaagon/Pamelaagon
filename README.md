@@ -3,7 +3,7 @@
 - 💼 I'm part of the <b>User Acquisition Team</b>
 - 🥅 I'm looking forward to put in practice all the knowledge learned in this course
 - ⚽️ My favorite football team is Monterrey (Rayados)
-- 
+- 🤔 test 
 <!--
 **pamelaagon/Pamelaagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
